@@ -1,0 +1,30 @@
+*{
+    font-family: 'Raleway', sans-serif;
+    padding: 0;
+    margin: 0;
+}
+html{
+    scroll-behavior: smooth;
+}
+body{    
+    width: 100vw;
+    height: 100vh;
+    background: url(https://i.imgur.com/hXSD8ex.png);
+    background-position: center;
+}
+.title{
+    text-align: center;
+    padding-top: 10px;
+    font-weight: 700;
+    font-size: 6vw;
+    color:white;
+}
+.title span{
+    color:#00E5FF;
+}
+.text{
+    text-align: center;
+    font-weight: 500;
+    font-size: 8vw;
+    color:white;
+}
